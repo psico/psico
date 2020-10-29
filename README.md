@@ -1,17 +1,19 @@
-## :man_technologist: João Gabriel, Software Developer 🚀
+<a href="https://github.com/psico">
+    <img width="50%" align="right" width="50%" alt="psico github stats" src="https://github-readme-stats.vercel.app/api?username=psico&show_icons=false&hide_border=false"/>
+</a>
 
+## :man_technologist: João Gabriel, Software Developer 🚀
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=)](https://github.com/psico)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-gabriel-dos-santos-rodrigues-34378323/?locale=en_US)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-dos-santos-rodrigues-34378323/?locale=en_US)
+
 <!--
 **Personal Infos:**
 
 - 💼 Senior Systems Analyst at **Banco do Brasil**
 - :computer: Knowledge: JavaScript, React, Java, Sprint Boot, PHP, Docker, SQL, MongoDB and others.
 -->
-<a href="https://github.com/psico">
-    <img width="50%" align="right" width="50%" alt="psico github stats" src="https://github-readme-stats.vercel.app/api?username=psico&show_icons=false&hide_border=false"/>
-</a>
+
 
 
 **Languages:**  
