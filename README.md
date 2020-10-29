@@ -25,7 +25,9 @@
 <code><img height="30" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
