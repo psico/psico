@@ -16,7 +16,7 @@
 
 
 
-**Languages:**  
+**Knowledge:**  
 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
