@@ -1,5 +1,5 @@
 <a href="https://github.com/psico">
-    <img width="50%" align="right" width="50%" alt="psico github stats" src="https://github-readme-stats.vercel.app/api?username=psico&show_icons=false&hide_border=false&hide=prs,contribs"/>
+    <img width="50%" align="right" width="50%" alt="psico github stats" src="https://github-readme-stats.vercel.app/api?username=psico&show_icons=false&hide_border=false"/>
 </a>
 
 ## :man_technologist: João Gabriel, Software Developer 🚀
