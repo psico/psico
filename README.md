@@ -5,7 +5,7 @@
 ## :man_technologist: João Gabriel, Full Stack Developer 🚀
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=)](https://github.com/psico)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-gabriel-dos-santos-rodrigues-34378323/?locale=en_US)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-dos-santos-rodrigues-34378323/?locale=en_US)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-gabriel-dos-santos-rodrigues-34378323/?locale=en_US)](https://www.linkedin.com/in/joao-gabriel-dos-santos-rodrigues/?locale=en_US)
 
 <!--
 **Personal Infos:**
